@@ -1,5 +1,6 @@
-# Shield_Insurance_Analysis
-![banner](https://github.com/user-attachments/assets/bf8eaa81-52aa-4a5d-bad5-e18fc8090853)
+# Shield_Insurance_Analysis:
+![image](https://github.com/user-attachments/assets/a7579c26-c91c-42ac-b2ed-0c0aa8566caf)
+
 Sheild Insurance is a insurance provider offering various policies. They have gathered data from Novemeber 2022 to April 2023. They want to look at this data to make their bussiness better. They've also asked for ideas on what to include in the report and I've created a dashboard based on their requests.
 
 ## Objective:
